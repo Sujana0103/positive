@@ -4,4 +4,4 @@ if num % 2 != 0:
 elif num < 0:
   print("invalid")
 else:
-  print("even")
+  print("Even")
